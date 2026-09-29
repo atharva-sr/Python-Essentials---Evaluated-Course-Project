@@ -15,3 +15,13 @@ Built With
 
 Language: Python 3 (runs entirely on native libraries like sys—no external packages or pip install required)
 Version Control: Git & GitHub
+
+Project Structure
+
+scholarship_finder/
+│
+├── schemes_db.py       # Scholarship catalog (criteria, limits, and awards)
+├── validator.py        # Logic that tests a student's profile against scheme requirements
+├── main.py             # CLI runner, menus, and user prompt handling
+├── README.md           # Quickstart and overview
+└── statement.md        # Background on the problem and original project goals
