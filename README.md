@@ -38,22 +38,23 @@ scholarship_finder/
 Installation & Setup
 Clone the Repository:
 
-Bash
+```bash
 
 git clone https://github.com/atharva-sr/Python-Essentials---Evaluated-Course-Project
-
+```
 Verify Python Installation:
 
 Make sure Python 3.x is installed:
 
-Bash
+```bash
 
 python --version
+```
 Execute the Application:
 Run the driver script:
-Bash
+```bash
 python main.py
-
+```
 Usage Instructions
 
 Run python main.py in your terminal.
