@@ -51,6 +51,9 @@ Make sure Python 3.x is installed:
 python --version
 ```
 Execute the Application:
+```bash
+cd Python-Essentials---Evaluated-Course-Project
+```
 Run the driver script:
 ```bash
 python main.py
